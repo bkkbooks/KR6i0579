@@ -1,0 +1,488 @@
+canonical_identifier: bkk:krp/KR6i0579/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0579/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘修行菩薩行門諸經要集
+  identifiers:
+    krp: KR6i0579
+    cbeta: T17n0847
+    cbeta_old_id: T17n0847
+    authorityid: CA0003614
+    json_key: T0847
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0847.xml
+    old_id: T17n0847
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0579_000-T.yaml, hash: 'sha256:44c2edf0e8e2c882a1181a8a01dd746d412134eaa4c5d0f78325de0d9510fff2'}
+  - {seq: 1, filename: KR6i0579_001-T.yaml, hash: 'sha256:e9ec252b4751d9b008518dc2bd76ed8d30601004c30aac74707ed705be4b5cd8'}
+  - {seq: 2, filename: KR6i0579_002-T.yaml, hash: 'sha256:a6ca604d9357d0d560f268c6ae21c0490b87726fd7670ee94a748d8340481c1e'}
+  - {seq: 3, filename: KR6i0579_003-T.yaml, hash: 'sha256:36e6406f5180e64f594ac673e651cf0c2e53544d242d18d906f9918e8a74f955'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0579_000-T.markers.yaml, hash: 'sha256:7da8a8d79d7e97fe8665af4b6e31e947fcb504595f181e740b61436cfdb7219d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0579_001-T.markers.yaml, hash: 'sha256:e74de3b3c90fc99b7709d6ecee50816a51f35f55f3a2d8353510327b6b049d38'}
+  - {seq: 2, role: markers, filename: assets/KR6i0579_002-T.markers.yaml, hash: 'sha256:85983e1bc574e4afa7d4b6e34805176b3b42a015dd3c192d301ef90b08b90648'}
+  - {seq: 3, role: markers, filename: assets/KR6i0579_003-T.markers.yaml, hash: 'sha256:d7e30ff4d3d063eb25eb6bef6d8dc82477cba48846e08742c4a350b8bcbc5233'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12954
+  label: '大乘修行菩薩行門諸經要集卷
+
+    上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-1
+    span:
+    - body
+    - 1661
+    - 1661
+  label: 第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-2
+    span:
+    - body
+    - 3605
+    - 3605
+  label: 第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-3
+    span:
+    - body
+    - 4971
+    - 4971
+  label: 第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-4
+    span:
+    - body
+    - 6034
+    - 6034
+  label: 第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-5
+    span:
+    - body
+    - 6536
+    - 6536
+  label: 第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-6
+    span:
+    - body
+    - 7524
+    - 7524
+  label: 第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-7
+    span:
+    - body
+    - 9287
+    - 9287
+  label: 第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-8
+    span:
+    - body
+    - 9696
+    - 9696
+  label: 第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-9
+    span:
+    - body
+    - 9900
+    - 9900
+  label: 第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-10
+    span:
+    - body
+    - 10422
+    - 10422
+  label: 第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0579_T_001-mulu-11
+    span:
+    - body
+    - 11891
+    - 11891
+  label: 第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 12206
+  label: '大乘修行菩薩行門諸經要集卷
+
+    中'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-2
+    span:
+    - body
+    - 6776
+    - 6776
+  label: 第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-3
+    span:
+    - body
+    - 8050
+    - 8050
+  label: 第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-4
+    span:
+    - body
+    - 8273
+    - 8273
+  label: 第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-5
+    span:
+    - body
+    - 8429
+    - 8429
+  label: 第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-6
+    span:
+    - body
+    - 8759
+    - 8759
+  label: 第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-7
+    span:
+    - body
+    - 9847
+    - 9847
+  label: 第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-8
+    span:
+    - body
+    - 10505
+    - 10505
+  label: 第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-9
+    span:
+    - body
+    - 11148
+    - 11148
+  label: 第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0579_T_002-mulu-10
+    span:
+    - body
+    - 12008
+    - 12008
+  label: 第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 12816
+  label: '大乘修行菩薩行門諸經要集卷
+
+    下'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-2
+    span:
+    - body
+    - 792
+    - 792
+  label: 第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-3
+    span:
+    - body
+    - 975
+    - 975
+  label: 第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-4
+    span:
+    - body
+    - 1815
+    - 1815
+  label: 第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-5
+    span:
+    - body
+    - 2294
+    - 2294
+  label: 第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-6
+    span:
+    - body
+    - 2693
+    - 2693
+  label: 第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-7
+    span:
+    - body
+    - 3315
+    - 3315
+  label: 第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-8
+    span:
+    - body
+    - 3998
+    - 3998
+  label: 第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-9
+    span:
+    - body
+    - 4229
+    - 4229
+  label: 第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-10
+    span:
+    - body
+    - 4429
+    - 4429
+  label: 第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-11
+    span:
+    - body
+    - 4607
+    - 4607
+  label: 第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-12
+    span:
+    - body
+    - 4891
+    - 4891
+  label: 第三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-13
+    span:
+    - body
+    - 5107
+    - 5107
+  label: 第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-14
+    span:
+    - body
+    - 5227
+    - 5227
+  label: 第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-15
+    span:
+    - body
+    - 5762
+    - 5762
+  label: 第三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-16
+    span:
+    - body
+    - 6025
+    - 6025
+  label: 第三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-17
+    span:
+    - body
+    - 6807
+    - 6807
+  label: 第三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-18
+    span:
+    - body
+    - 7335
+    - 7335
+  label: 第三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-19
+    span:
+    - body
+    - 8605
+    - 8605
+  label: 第四十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-20
+    span:
+    - body
+    - 9221
+    - 9221
+  label: 第四十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0579_T_003-mulu-21
+    span:
+    - body
+    - 10349
+    - 10349
+  label: 第四十二
+  type: mulu
+  level: 1
+hash: sha256:5cf351022921f4b647216304784341900706cbbfee1d40cd5095aa2d112f846a

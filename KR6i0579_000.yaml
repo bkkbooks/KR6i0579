@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0579/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘修行菩薩行門諸經要集
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0847.xml
+    old_id: T17n0847
+hash: sha256:44c2edf0e8e2c882a1181a8a01dd746d412134eaa4c5d0f78325de0d9510fff2
